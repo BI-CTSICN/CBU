@@ -9,7 +9,7 @@ _We acknowledge the support of the CRI Bioinformatics Unit, a partnership betwee
 
 ***Authorship***
 
-Per the guidelines of the International Committee of Medical Journal Editors (ICMJE)1, authorship credit is indicated when the following four conditions are met:
+Per the guidelines of the International Committee of Medical Journal Editors (ICMJE)[1], authorship credit is indicated when the following four conditions are met:
 
 * _substantial contributions to: the conception or design of the work; or the acquisition, analysis or interpretation of data for the work_
 
@@ -25,5 +25,5 @@ Therefore, members of the CRI Bioinformatics Unit who contribute substantially t
 
 _Decisions about authorship are not related to funding arrangements between investigators and their collaborators in the CRI Bioinformatics Unit._
 
-**1 International Committee of Medical Journal Editors. Recommendations for the Conduct, Reporting, Editing and Publication of Scholarly Work in Medical Journals. http://www.icmje.org. Updated 2013. Accessed January 30, 2014.**
+**[1] International Committee of Medical Journal Editors. Recommendations for the Conduct, Reporting, Editing and Publication of Scholarly Work in Medical Journals. http://www.icmje.org. Updated 2013. Accessed January 30, 2014.**
 
