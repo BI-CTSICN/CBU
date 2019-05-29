@@ -12,4 +12,4 @@ menu: header
 [Understanding Transcriptomics with RNA Seq and Microarrays](/documents/CBU_Seminar2_Transcriptomics.pdf)
 
 ### **3. Seminar - 28th May, 2019** 
-[Variant Identification and Interpretation from Next Generation Sequencing](/documents/Variant Identification and Interpretation from Next Generation Sequencing.pdf)
+[Variant Identification and Interpretation from Next Generation Sequencing](/documents/Variant_Identification_and_Interpretation_from_Next_Generation_Sequencing.pdf)
