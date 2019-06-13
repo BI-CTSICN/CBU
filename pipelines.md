@@ -6,7 +6,7 @@ menu: header
 
 ## **RNA Seq**
 
-FastQ files containing the raw RNA-Seq reads output from the sequencers are first checked for quality using FastQC. 
+FastQ files containing the raw RNA-Seq reads (Bulk RNA-seq)  output from the sequencers are first checked for quality using FastQC. 
 
 It is followed by trimming of poor quality reads using any of the following tools
 
@@ -17,7 +17,7 @@ It is followed by trimming of poor quality reads using any of the following tool
 An aligner is used to align the reads to the reference genome (Human/Mouse etc) using any of the following tools
 *	Tophat2
 *	Hisat2
-*	STAR
+*	STAR - Recommended by the analysts based on reports by different groups as well as the following review https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5792058/
 
 The aligned Sequence Alignment Map (SAM) files are sorted and converted to BAM using samtools in some cases
 
@@ -43,6 +43,22 @@ For Differential Gene expression, we use either the following packages in R:
 
 The final data can be represented in the form of heatmaps, volcano plots, MA plots and PCA plots using basic R packages. 
 
+### Requirements from the Investigator for the Analysis
+
+a.	Fastq files (Required)
+b.	Organism used (Required)
+c.	Platform used for the sequencing (Optional)
+d.	Sample sheet (Required). Sample sheet should have the following:
+I)	Sample names (required)
+II)	Conditions associated to each samples (required)
+III)	Lane information (required)
+IV)	Sample concentration (optional for bulk; required for Single cell)
+V)	Spike in controls used (optional)
+VI)	Number of cells used per sample (required for Single cell)
+VII)	Quality of RNA used (optional)
+e.	Candidate gene list (optional)
+
+For **single cell RNA seq analysis** for 10x genomics we use the cellranger pipeline and Seurat for differential expression. For other pipelines we use demultiplexing algorithms (as recommended by the kit manufacturers) and follow alignment and counting pipelines as described for normal RNA sequencing. Differential expression estimated using Seurat/Monocle. 
 
 ## **WGS/Exome Seq**
 
@@ -74,6 +90,16 @@ The vcf file is then further processed  using Variant Quality Score Recalibratio
 
 Annotation of variant is done using Annovar, followed by manual filtration.
 
+Requirements from the Investigator for the Analysis
+
+a.	Fastq files (Required)
+b.	Organism used (Required)
+c.	Platform used for the sequencing (Optional)
+d.	Sample sheet (Required). Sample sheet should have the following:
+VIII)	Sample names (required)
+IX)	If family trio being run relationship should be mentioned (required)
+X)	Lane information (required)
+
 
 ## **T-cell Receptor Sequencing**
 
@@ -84,6 +110,18 @@ The raw sequencing data in fastqc files is first quality checked with FastQC and
 
 Extraction and alignment of fragments of target molecules is performed followed by assembly of overlapping fragmented sequencing reads into long-enough CDR3 containing contigs using the MiXCR pipeline to analyze TCR or Ig repertoire from sequencing data.
 
+Requirements from the Investigator for the Analysis
+
+a.	Fastq files (Required)
+b.	Organism used (Required)
+c.	Platform used for the sequencing (Optional)
+d.	Sample sheet (Required). Sample sheet should have the following:
+I)	Sample names (required)
+II)	Conditions associated to each samples (required)
+III)	Lane information (required)
+IV)	Sample concentration (optional for bulk; required for Single cell)
+
+
 ## **Metagenomics/Microbiome**
 
 The raw sequencing data in fastqc files is first quality checked with FastQC and depending upon the quality it is trimmed using the following tools.
@@ -92,3 +130,13 @@ The raw sequencing data in fastqc files is first quality checked with FastQC and
 * cutadapt
 
 We perform demultiplexing and quality filtering, OTU picking, taxonomic assignment, and phylogenetic reconstruction, and diversity analyses and visualizations using QIIME1 pipeline.
+
+Requirements from the Investigator for the Analysis
+
+a.	Fastq files (Required)
+b.	Organism used (Required)
+c.	Platform used for the sequencing (Optional)
+d.	Sample sheet (Required). Sample sheet should have the following:
+I)	Sample names (required)
+II)	Conditions associated to each samples (required)
+III)	Lane information (required)
