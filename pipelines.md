@@ -46,16 +46,27 @@ The final data can be represented in the form of heatmaps, volcano plots, MA plo
 ### Requirements from the Investigator for the Analysis
 
 a.	Fastq files (Required)
+
 b.	Organism used (Required)
+
 c.	Platform used for the sequencing (Optional)
+
 d.	Sample sheet (Required). Sample sheet should have the following:
+
 I)	Sample names (required)
+
 II)	Conditions associated to each samples (required)
+
 III)	Lane information (required)
+
 IV)	Sample concentration (optional for bulk; required for Single cell)
+
 V)	Spike in controls used (optional)
+
 VI)	Number of cells used per sample (required for Single cell)
+
 VII)	Quality of RNA used (optional)
+
 e.	Candidate gene list (optional)
 
 For **single cell RNA seq analysis** for 10x genomics we use the cellranger pipeline and Seurat for differential expression. For other pipelines we use demultiplexing algorithms (as recommended by the kit manufacturers) and follow alignment and counting pipelines as described for normal RNA sequencing. Differential expression estimated using Seurat/Monocle. 
@@ -93,11 +104,16 @@ Annotation of variant is done using Annovar, followed by manual filtration.
 ### Requirements from the Investigator for the Analysis
 
 a.	Fastq files (Required)
+
 b.	Organism used (Required)
+
 c.	Platform used for the sequencing (Optional)
+
 d.	Sample sheet (Required). Sample sheet should have the following:
 VIII)	Sample names (required)
+
 IX)	If family trio being run relationship should be mentioned (required)
+
 X)	Lane information (required)
 
 
@@ -113,12 +129,19 @@ Extraction and alignment of fragments of target molecules is performed followed 
 ### Requirements from the Investigator for the Analysis
 
 a.	Fastq files (Required)
+
 b.	Organism used (Required)
+
 c.	Platform used for the sequencing (Optional)
+
 d.	Sample sheet (Required). Sample sheet should have the following:
+
 I)	Sample names (required)
+
 II)	Conditions associated to each samples (required)
+
 III)	Lane information (required)
+
 IV)	Sample concentration (optional for bulk; required for Single cell)
 
 
@@ -134,9 +157,15 @@ We perform demultiplexing and quality filtering, OTU picking, taxonomic assignme
 ### Requirements from the Investigator for the Analysis
 
 a.	Fastq files (Required)
+
 b.	Organism used (Required)
+
 c.	Platform used for the sequencing (Optional)
+
 d.	Sample sheet (Required). Sample sheet should have the following:
+
 I)	Sample names (required)
+
 II)	Conditions associated to each samples (required)
+
 III)	Lane information (required)
