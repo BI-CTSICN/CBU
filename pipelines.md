@@ -90,7 +90,7 @@ The vcf file is then further processed  using Variant Quality Score Recalibratio
 
 Annotation of variant is done using Annovar, followed by manual filtration.
 
-Requirements from the Investigator for the Analysis
+### Requirements from the Investigator for the Analysis
 
 a.	Fastq files (Required)
 b.	Organism used (Required)
@@ -110,7 +110,7 @@ The raw sequencing data in fastqc files is first quality checked with FastQC and
 
 Extraction and alignment of fragments of target molecules is performed followed by assembly of overlapping fragmented sequencing reads into long-enough CDR3 containing contigs using the MiXCR pipeline to analyze TCR or Ig repertoire from sequencing data.
 
-Requirements from the Investigator for the Analysis
+### Requirements from the Investigator for the Analysis
 
 a.	Fastq files (Required)
 b.	Organism used (Required)
@@ -131,7 +131,7 @@ The raw sequencing data in fastqc files is first quality checked with FastQC and
 
 We perform demultiplexing and quality filtering, OTU picking, taxonomic assignment, and phylogenetic reconstruction, and diversity analyses and visualizations using QIIME1 pipeline.
 
-Requirements from the Investigator for the Analysis
+### Requirements from the Investigator for the Analysis
 
 a.	Fastq files (Required)
 b.	Organism used (Required)
