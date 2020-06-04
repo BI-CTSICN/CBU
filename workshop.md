@@ -39,6 +39,6 @@ James Dahlman, Georgia Tech and Emory School of Medicine
 
 ### **6. Seminar - 12th June 2020** 
 Advancing genome editing through collaboration on consensus standards<br>
-Samantha Maragh PhD, NIST
+Samantha Maragh, NIST
 
 
