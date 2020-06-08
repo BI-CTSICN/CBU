@@ -20,8 +20,8 @@ menu: header
 ### **5 Seminar - 28th November, 2019**
 [Single Cell RNA-Sequencing: A Primer](/documents/Single-Cell_RNAseq_11252019(1).pdf)
 
-### **6 Seminar - December, 2019**
-[]()
+### **6 Seminar - 16th December, 2019**
+[Going Long with Nanopore Sequencing: An Update on Clinical Applications]()
 
 
 ## Virtual Genome Editing Seminar Series
