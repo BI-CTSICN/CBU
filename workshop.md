@@ -14,6 +14,15 @@ menu: header
 ### **3. Seminar - 28th May, 2019** 
 [Variant Identification and Interpretation from Next Generation Sequencing](/documents/Variant_Identification_and_Interpretation_from_Next_Generation_Sequencing.pdf)
 
+### **4. Seminar - 1rst October, 2019**
+[Applications of Optical Genome Mapping]()
+
+### **5 Seminar - 28th November, 2019**
+[Single Cell RNA-Sequencing: A Primer]()
+
+### **6 Seminar - December, 2019**
+[]()
+
 
 ## Virtual Genome Editing Seminar Series
 ### **1. Seminar - 27th March, 2020**
