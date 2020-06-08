@@ -54,8 +54,8 @@ Samantha Maragh, NIST
 
 ### **1. [Genome Graphs]()**
 
-### **2. [Pan-Cancer-analysis]()**
+### **2. [Pan Cancer analysis]()**
 
-### **3. [Single-Cell-trajectory-benchmark]()**
+### **3. [Single Cell trajectory benchmark]()**
 
 
