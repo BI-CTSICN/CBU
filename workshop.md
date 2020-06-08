@@ -17,10 +17,10 @@ menu: header
 ### **4. Seminar - 1rst October, 2019**
 [Applications of Optical Genome Mapping]()
 
-### **5 Seminar - 28th November, 2019**
+### **5. Seminar - 28th November, 2019**
 [Single Cell RNA-Sequencing: A Primer](/documents/Single-Cell_RNAseq_11252019(1).pdf)
 
-### **6 Seminar - 16th December, 2019**
+### **6. Seminar - 16th December, 2019**
 [Going Long with Nanopore Sequencing: An Update on Clinical Applications]()
 
 
@@ -49,5 +49,13 @@ James Dahlman, Georgia Tech and Emory School of Medicine
 ### **6. Seminar - 12th June 2020** 
 Advancing genome editing through collaboration on consensus standards<br>
 Samantha Maragh, NIST
+
+## Journal Clubs
+
+### **1. [Genome Graphs]()**
+
+### **2. [Pan-Cancer-analysis]()**
+
+### **3. [Single-Cell-trajectory-benchmark]()**
 
 
