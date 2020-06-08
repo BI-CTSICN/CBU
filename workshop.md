@@ -52,10 +52,10 @@ Samantha Maragh, NIST
 
 ## Journal Clubs
 
-### **1. [Genome Graphs]()**
+### **1. [Genome Graphs](/documents/Genome_graphs_11-15-19.pdf)**
 
-### **2. [Pan Cancer analysis]()**
+### **2. [Pan Cancer analysis](/documents/Pan_can_analysis.pdf)**
 
-### **3. [Single Cell trajectory benchmark]()**
+### **3. [Single Cell trajectory benchmark](/documents/single_cell_trajectory_benchmark.pdf)**
 
 
