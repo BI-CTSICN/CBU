@@ -5,7 +5,7 @@ menu: header
 ---
 
 ## Special Interest Groups
-### Single Cell RNA Sequencing Special Interest Group
+### **Single Cell RNA Sequencing Special Interest Group
 
 ## Seminars
 ### **1. Seminar - 4th February, 2019**
