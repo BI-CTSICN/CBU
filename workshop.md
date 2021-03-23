@@ -7,7 +7,7 @@ menu: header
 ## Special Interest Groups
 ### **1. Single Cell RNA Sequencing Special Interest Group**
 
-## Seminars
+## Workshops
 ### **1. Seminar - 4th February, 2019**
 
 [Introduction to CBU and Informatics Approach to Genomics](/documents/CBU_Seminar1_introduction_slides.pdf)
