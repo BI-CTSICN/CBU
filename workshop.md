@@ -3,14 +3,19 @@ layout: page
 title: Workshops and Seminars
 menu: header
 ---
+
 <details>
-  <summary> ## Special Interest Groups</summary>
+  <summary> 
+    ## Special Interest Groups
+  </summary>
 
 ### **1. Single Cell RNA Sequencing Special Interest Group**
 </details>
 
 <details>
-  <summary> ## Workshops</summary>
+  <summary> 
+    ## Workshops
+  </summary>
   
 ### **1. Seminar - 4th February, 2019**
 
@@ -33,7 +38,9 @@ menu: header
 </details>
 
 <details>
-  <summary> ## Virtual Genome Editing Seminar Series </summary>
+  <summary> 
+    ## Virtual Genome Editing Seminar Series 
+  </summary>
 
 ### **1. Seminar - 27th March, 2020**
 A mutation-independent CRISPR-Cas9-mediated gene targeting approach to treat a murine model of OTC deficiency  <br>
@@ -62,7 +69,9 @@ Samantha Maragh, NIST
 </details>
 
 <details>
-  <summary>## Journal Clubs</summary>
+  <summary>
+    ## Journal Clubs
+  </summary>
 
 ### **1. [Genome Graphs](/documents/Genome_graphs_11-15-19.pdf)**
 
