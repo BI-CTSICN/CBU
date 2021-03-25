@@ -1,10 +1,8 @@
-
 ---
 layout: page
 title: Workshops and Seminars
 menu: header
 ---
-
 
 <details>
   <summary><h2>Special Interest Groups</h2></summary>
@@ -35,10 +33,7 @@ menu: header
 </details>
 
 <details>
-  <summary> 
-    
-## Virtual Genome Editing Seminar Series 
-  </summary>
+  <summary> <h2>Virtual Genome Editing Seminar Series</h2></summary>
 
 1. Seminar - 27th March, 2020
 A mutation-independent CRISPR-Cas9-mediated gene targeting approach to treat a murine model of OTC deficiency  <br>
@@ -67,10 +62,7 @@ Samantha Maragh, NIST<br>
 </details>
 
 <details>
-  <summary>
-    
-## Journal Clubs
-  </summary>
+  <summary><h2>Journal Clubs</h2></summary>
 
 1. [Genome Graphs](/documents/Genome_graphs_11-15-19.pdf)
 2. [Pan Cancer analysis](/documents/Pan_can_analysis.pdf)
