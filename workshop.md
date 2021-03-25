@@ -4,14 +4,12 @@ title: Workshops and Seminars
 menu: header
 ---
 
-<details>
-  <summary><h2>Special Interest Groups</h2></summary>
+<details><summary><h2>Special Interest Groups</h2></summary>
 
-1. Single Cell RNA Sequencing Special Interest Group
+1. Single Cell RNA Sequencing Special Interest Group<br>
 </details>
 
-<details>
-  <summary> <H2>Workshops</H2></summary>
+<details><summary> <H2>Workshops</H2></summary>
   
 1. Seminar - 4th February, 2019
 [Introduction to CBU and Informatics Approach to Genomics](/documents/CBU_Seminar1_introduction_slides.pdf)<br>
@@ -32,8 +30,7 @@ menu: header
 [Going Long with Nanopore Sequencing: An Update on Clinical Applications]<br>
 </details>
 
-<details>
-  <summary> <h2>Virtual Genome Editing Seminar Series</h2></summary>
+<details><summary> <h2>Virtual Genome Editing Seminar Series</h2></summary>
 
 1. Seminar - 27th March, 2020
 A mutation-independent CRISPR-Cas9-mediated gene targeting approach to treat a murine model of OTC deficiency  <br>
@@ -61,11 +58,10 @@ Advancing genome editing through collaboration on consensus standards<br>
 Samantha Maragh, NIST<br>
 </details>
 
-<details>
-  <summary><h2>Journal Clubs</h2></summary>
+<details><summary><h2>Journal Clubs</h2></summary>
 
-1. [Genome Graphs](/documents/Genome_graphs_11-15-19.pdf)
-2. [Pan Cancer analysis](/documents/Pan_can_analysis.pdf)
-3. [Single Cell trajectory benchmark](/documents/single_cell_trajectory_benchmark.pdf)
+1. [Genome Graphs](/documents/Genome_graphs_11-15-19.pdf)<br>
+2. [Pan Cancer analysis](/documents/Pan_can_analysis.pdf)<br>
+3. [Single Cell trajectory benchmark](/documents/single_cell_trajectory_benchmark.pdf)<br>
 </details>
 
