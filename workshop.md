@@ -4,12 +4,14 @@ title: Workshops and Seminars
 menu: header
 ---
 <details>
+  <summary> ## Special Interest Groups</summary>
 
-<summary> ## Special Interest Groups</summary>
-</details>
 ### **1. Single Cell RNA Sequencing Special Interest Group**
+</details>
 
-## Workshops
+<details>
+  <summary> ## Workshops</summary>
+  
 ### **1. Seminar - 4th February, 2019**
 
 [Introduction to CBU and Informatics Approach to Genomics](/documents/CBU_Seminar1_introduction_slides.pdf)
@@ -28,9 +30,11 @@ menu: header
 
 ### **6. Seminar - 16th December, 2019**
 [Going Long with Nanopore Sequencing: An Update on Clinical Applications]()
+</details>
 
+<details>
+  <summary> ## Virtual Genome Editing Seminar Series </summary>
 
-## Virtual Genome Editing Seminar Series
 ### **1. Seminar - 27th March, 2020**
 A mutation-independent CRISPR-Cas9-mediated gene targeting approach to treat a murine model of OTC deficiency  <br>
 Lili Wang, University of Pennsylvania
@@ -55,13 +59,15 @@ James Dahlman, Georgia Tech and Emory School of Medicine
 ### **6. Seminar - 12th June 2020** 
 Advancing genome editing through collaboration on consensus standards<br>
 Samantha Maragh, NIST
+</details>
 
-## Journal Clubs
+<details>
+  <summary>## Journal Clubs</summary>
 
 ### **1. [Genome Graphs](/documents/Genome_graphs_11-15-19.pdf)**
 
 ### **2. [Pan Cancer analysis](/documents/Pan_can_analysis.pdf)**
 
 ### **3. [Single Cell trajectory benchmark](/documents/single_cell_trajectory_benchmark.pdf)**
-
+</details>
 
