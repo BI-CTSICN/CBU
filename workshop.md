@@ -3,8 +3,10 @@ layout: page
 title: Workshops and Seminars
 menu: header
 ---
+<details>
 
-## Special Interest Groups
+<summary> ## Special Interest Groups</summary>
+</details>
 ### **1. Single Cell RNA Sequencing Special Interest Group**
 
 ## Workshops
