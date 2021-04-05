@@ -6,13 +6,13 @@ menu: header
 
 <details><summary><h2>Special Interest Groups</h2></summary>
 
-1. [Single Cell RNA Sequencing Special Interest Group](https://teams.microsoft.com/l/channel/19%3a1b364a0924f14479a9b99c803feeffa9%40thread.tacv2/Single%2520Cell%2520RNASeq%2520SIG?groupId=620a9d2a-e7db-47cc-b313-5b8793d3240b&tenantId=021af73b-7bf8-4014-aa49-bcf05c8e29b1)<br>
+1. [Single Cell RNA Sequencing Special Interest Group](https://teams.microsoft.com/l/channel/19%3a1b364a0924f14479a9b99c803feeffa9%40thread.tacv2/Single%2520Cell%2520RNASeq%2520SIG?groupId=620a9d2a-e7db-47cc-b313-5b8793d3240b&tenantId=021af73b-7bf8-4014-aa49-bcf05c8e29b1)  <br>
 </details>
 
 <details><summary> <H2>Workshops</H2></summary>
   
 1. Seminar - 4th February, 2019
-[Introduction to CBU and Informatics Approach to Genomics](/documents/CBU_Seminar1_introduction_slides.pdf)<br>
+[Introduction to CBU and Informatics Approach to Genomics](/documents/CBU_Seminar1_introduction_slides.pdf) <br>
 
 2. Seminar - 11th March, 2019
 [Understanding Transcriptomics with RNA Seq and Microarrays](/documents/CBU_Seminar2_Transcriptomics.pdf)<br>
