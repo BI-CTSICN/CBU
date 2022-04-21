@@ -42,20 +42,26 @@ menu: header
 </p>
 
 ## **Staff:**
-
+<!---
 * Payal Banerjee - Bioinformatics Analyst
 <p align="center">
   <img src="images/payal_headshot_2.jpg " width="200"/>
 </p>
+-->
 
 * Dr. Surajit Bhattacharya - Post-Doctoral Fellow, Vilain Lab
 <p align="center">
   <img src="images/surajit.jpg " width="200"/>
 </p>
 
-* Dr. Hayk Barseghyan - Post-Doctoral Fellow, Vilain Lab
+* Dr. Hayk Barseghyan - Assistant Professor, Vilain Lab
 <p align="center">
   <img src="images/hayk.jpg " width="200"/>
+</p>
+
+* David Thompson - Bioinformatics Analyst
+<p align="center">
+  <img src="images/payal_headshot_2.jpg " width="200"/>
 </p>
 
 
