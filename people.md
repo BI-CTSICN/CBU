@@ -16,9 +16,9 @@ menu: header
   <img src="images/ChildrensNational.jpg " width="200"/>
 </p>
 
-* [Dr. Wei Li](https://childrensnational.org/research-and-education/about-cri/faculty-and-leadership-directory/kazue-hashimototorii) - Center for Neuroscience Research liaison
+* [Dr. Wei Li]([https://childrensnational.org/Research/People/Li-Wei]) - Director of DC-IDDRC Genomics and Bioinformatics Core
 <p align="center">
-  <img src="images/kazue.png " width="200"/>
+  <img src="images/wei.jpg " width="200"/>
 </p>
 
 * [Dr. Kazue Hashimoto-Torii](https://childrensnational.org/research-and-education/about-cri/faculty-and-leadership-directory/kazue-hashimototorii) - Center for Neuroscience Research liaison
