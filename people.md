@@ -16,7 +16,7 @@ menu: header
   <img src="images/ChildrensNational.jpg " width="200"/>
 </p>
 
-* [Dr. Wei Li]([https://childrensnational.org/Research/People/Li-Wei]) - Director of DC-IDDRC Genomics and Bioinformatics Core
+* [Dr. Wei Li](https://childrensnational.org/Research/People/Li-Wei) - Director of DC-IDDRC Genomics and Bioinformatics Core
 <p align="center">
   <img src="images/wei.jpg " width="200"/>
 </p>
