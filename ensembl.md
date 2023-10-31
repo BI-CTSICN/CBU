@@ -126,7 +126,6 @@ To register, please fill out and submit the registration form:
 
 <h2 id="sponsors">Sponsors</h2>
 <div class="row">
-
     <img src="images/e_ensembl.png" alt="E-Ensembl" width="180px" />
 &nbsp;
     <img src="images/gw_primary_2c_0.png" alt="GWU" width="160px" />
